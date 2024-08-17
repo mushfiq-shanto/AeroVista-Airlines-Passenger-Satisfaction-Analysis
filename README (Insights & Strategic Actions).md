@@ -1,4 +1,4 @@
-# Airline Passenger Segmentation Analysis: Insights & Strategic Actions
+# Airline Passenger Satisfaction Analysis: Insights & Strategic Actions
 
 ## Overview
 This project analyzes airline passenger data to segment customers into distinct clusters, aiming to optimize service offerings, boost customer retention, and improve overall satisfaction. Key metrics analyzed include demographic data, travel behaviors, service usage, and satisfaction drivers.
