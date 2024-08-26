@@ -1,7 +1,9 @@
 # AeroVista Airlines Passenger Satisfaction Analysis: Insights & Strategic Actions
 
 ## Overview
-This project analyzes passenger data of AeroVista Airlines to segment customers into distinct clusters, aiming to optimize service offerings, boost customer retention, and improve overall satisfaction. Key metrics analyzed include demographic data, travel behaviors, service usage, and satisfaction drivers.
+This project analyzes passenger data of AeroVista Airlines to segment customers into distinct clusters, aiming to optimize service offerings, boost customer retention, and improve overall satisfaction. Key metrics analyzed include demographic data, travel behaviors, service usage, and satisfaction drivers. 
+
+This section provides a summary of the insights derived & strategic recommendations. For detailed documentation of the analysis, please refer to the ipynb file [here]([url](https://github.com/mushfiq-shanto/Airline-Passenger-Satisfaction-Analysis/blob/d0b0a16b748bde114bee4414509947af28edc33d/Customer_Clustering_%26_Satisfaction_Driver_Analysis.ipynb)).
 
 ## Objective
 To identify actionable insights through data-driven segmentation and improve customer-centric decision-making by airlines.
