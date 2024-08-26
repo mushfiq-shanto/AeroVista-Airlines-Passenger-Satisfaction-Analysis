@@ -12,19 +12,19 @@ To identify actionable insights through data-driven segmentation and improve cus
 
 ## Segmentation Insights
 ### Key Customer Clusters & Satisfaction Drivers:
-1. **Cluster 0: Adventurous Loyalists**  
+1. **Cluster 0: Adventurous Loyalists (30%)**  
    - **Profile**: Frequent personal travellers, cost-conscious, value loyalty benefits.  
    - **Top Drivers**: Streamlined online boarding, inflight entertainment, seat comfort.
 
-2. **Cluster 1: Young Independent Travelers**  
+2. **Cluster 1: Young Independent Travelers (27%)**  
    - **Profile**: Disloyal, spontaneous travellers, prioritize flexibility and tech integration.  
    - **Top Drivers**: Efficient online boarding, reliable inflight wifi, seamless booking process.
 
-3. **Cluster 2: Executive Veterans**  
+3. **Cluster 2: Executive Veterans (25%)**  
    - **Profile**: Business-focused, loyal to preferred airlines, seeking comfort and efficiency.  
    - **Top Drivers**: High-speed inflight wifi, adequate legroom, efficient online boarding.
 
-4. **Cluster 3: Elite Young Professionals**  
+4. **Cluster 3: Elite Young Professionals (18%)**  
    - **Profile**: Premium business travellers, young and loyal, prefer high-end services.  
    - **Top Drivers**: Inflight wifi quality, priority online boarding, ease of booking.
 
